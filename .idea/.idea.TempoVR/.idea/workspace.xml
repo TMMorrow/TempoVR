@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e140a321-2a35-4d5f-80f1-c57e48701d59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/.github/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/.github/SUPPORT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.BehaviourStateRequirementMethod.Fody.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.BehaviourStateRequirementMethod.Fody.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.MemberClearanceMethod.Fody.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.MemberClearanceMethod.Fody.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.Shared.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.Shared.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/InteractableSnapZone/InteractableSnapZone.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/InteractableSnapZone/InteractableSnapZone.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/InteractableSnapZone/SharedResources/Materials/SnapZoneHighlight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/InteractableSnapZone/SharedResources/Materials/SnapZoneHighlight.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_ControlDirection.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_ControlDirection.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_None.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_None.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_Scale.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_Scale.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_Swap.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/Interactable.Primary_Grab.Secondary_Swap.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/SharedResources/NestedPrefabs/GrabActions/Interactable.GrabAction.ControlDirectionAction.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/SharedResources/NestedPrefabs/GrabActions/Interactable.GrabAction.ControlDirectionAction.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Pointers/ObjectPointer.Straight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Prefabs/Pointers/ObjectPointer.Straight.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VRTK/Samples/Farm/Scenes/ExampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VRTK/Samples/Farm/Scenes/ExampleScene.unity" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hit.transform</find>
+      <find>GetChild(1)</find>
+      <find>hit</find>
+      <find>[lastObj]</find>
+      <find>[0]</find>
+      <find>[findIndex()]</find>
+      <find>keys</find>
+      <find>others</find>
+      <find>toggle</find>
+      <find>range</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>hit[i].transform</replace>
+      <replace>GetChild(0)</replace>
+      <replace>keys</replace>
+      <replace>[0]</replace>
+      <replace>[findIndex()]</replace>
+      <replace>[dh.GetNote()]</replace>
+      <replace>hits</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/VRTK" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/VRTK/Dependencies/Zinnia.Unity/Runtime/Tracking/Query/ObscuranceQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/SharedResources/Scripts/Grab/Action/GrabInteractableFollowAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MarimbaHit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Puzzle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VRTK/Prefabs/CameraRig/UnityXRCameraRig/SharedResources/Scripts/Input/UnityAxis1DAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RestartPuzzle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Project Monkey/Assets/Scripts/CreateObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MarimbaSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VRTK/Prefabs/Interactions/Interactables/SharedResources/Scripts/Grab/Receiver/GrabInteractableReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OpacityChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DrumHit.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/OpacityChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MarimbaPuzzle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DrumHit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Metronome.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ForceGrabNew.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MarimbaSetup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Puzzle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RestartPuzzle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MarimbaHit.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SfbqzPsJ1ADEECLBjmxu9OyH89" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e140a321-2a35-4d5f-80f1-c57e48701d59" name="Default Changelist" comment="" />
+      <created>1568984722923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568984722923</updated>
+      <workItem from="1568984728926" duration="25000" />
+      <workItem from="1568986206106" duration="2211000" />
+      <workItem from="1569329251075" duration="1496000" />
+      <workItem from="1569502603392" duration="6439000" />
+      <workItem from="1569852916105" duration="3470000" />
+      <workItem from="1570020115178" duration="10726000" />
+      <workItem from="1570195368098" duration="5733000" />
+      <workItem from="1570542494431" duration="4739000" />
+      <workItem from="1570713269505" duration="6381000" />
+      <workItem from="1571402176890" duration="8692000" />
+      <workItem from="1571928801318" duration="2444000" />
+      <workItem from="1571957838880" duration="3867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
